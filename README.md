@@ -15,7 +15,7 @@
 Criada pelo 34º presidente dos Estados Unidos, Dwight Eisenhower, a Matriz de Eisenhower é uma ferramenta utilizada para priorizar tarefas e orientar os processos de tomada de decisão nas organizações.[Matriz de Eisenhower](https://www.siteware.com.br/produtividade/matriz-de-eisenhower/)
 
 ## Matriz de Eisenhower
-<img width="400" height="300" src="https://github.com/LeandrodaSilvaStampini/Challenge-da-Sprint-1/blob/main/image1.png"/>
+<img width="400" height="450" src="https://github.com/LeandrodaSilvaStampini/Challenge-da-Sprint-1/blob/main/image1.png"/>
 ## Regra 10 de Myers
 ![imagem 1](https://1.bp.blogspot.com/-JiJxvjYuZtg/TzZjpkZIn1I/AAAAAAAAAIg/mnQOPY3bfPg/s400/10myers.jpg%22)
 
