@@ -20,7 +20,18 @@ Criada pelo 34º presidente dos Estados Unidos, Dwight Eisenhower, a Matriz de E
 # GIT E GITLAB
 [Comandos Git mais utilizados e como configurar](https://blog.geekhunter.com.br/comandos-git-mais-utilizados/)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+git add . (usado para adicionar os arquviso mudados (add . vai fazer com que todos os aqruivos sejam adicionados)) 
+
+git commit -m "mensagem" (usado para comentar a o que foi adicionado)
+
+git push (serve para enviar o projeto localmente para algum "destino")
+
+git pull origin develop (serve para puxar os arquivos do "destino")
+
+git checkout -b nomeDaBranch (serve para criar uma ramificação (branch) e mudar direto para ela)
+
+git checkout nomeDaBranch (serve para mudar sua branch)
+
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
