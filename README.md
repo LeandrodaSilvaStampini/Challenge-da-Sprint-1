@@ -18,7 +18,7 @@ Criada pelo 34º presidente dos Estados Unidos, Dwight Eisenhower, a Matriz de E
 ![imagem 1](https://github.com/LeandrodaSilvaStampini/Challenge-da-Sprint-1/blob/main/image1.png)
 
 # GIT E GITLAB
-![Web 1](https://youtu.be/UBAX-13g8OM)
+![Web 1](https://blog.geekhunter.com.br/comandos-git-mais-utilizados/)
 
 ![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
 
