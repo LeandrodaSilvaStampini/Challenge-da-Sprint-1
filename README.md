@@ -15,7 +15,7 @@
 Criada pelo 34º presidente dos Estados Unidos, Dwight Eisenhower, a Matriz de Eisenhower é uma ferramenta utilizada para priorizar tarefas e orientar os processos de tomada de decisão nas organizações.[Matriz de Eisenhower](https://www.siteware.com.br/produtividade/matriz-de-eisenhower/)
 
 ## Layout Matriz
-![imagem 1](https://github.com/LeandrodaSilvaStampini/Challenge-da-Sprint-1/commit/eb5c5f56f8884f00b68b56afabbacac6fb73d5ca)
+![imagem 1](https://github.com/LeandrodaSilvaStampini/Challenge-da-Sprint-1/blob/main/image1.png)
 
 ## Layout web
 ![Web 1](https://github.com/LeandrodaSilvaStampini/Challenge-da-Sprint-1/commit/eb5c5f56f8884f00b68b56afabbacac6fb73d5ca)
