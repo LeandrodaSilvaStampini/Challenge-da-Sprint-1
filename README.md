@@ -4,9 +4,12 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/LeandrodaSilvaStampini/Challenge-da-Sprint-1/blob/main/LICENSE)
 # Sobre o projeto
 👍Onboard
+
 👍Challenge
+
 👍Entregáveis
-Orientações Gerais:
+
+👍Orientações Gerais:
 
 https://wmazoni-sds1.netlify.app
 
