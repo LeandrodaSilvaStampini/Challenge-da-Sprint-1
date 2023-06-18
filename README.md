@@ -13,7 +13,7 @@
 
 https://wmazoni-sds1.netlify.app
 
-Criada pelo 34º presidente dos Estados Unidos, Dwight Eisenhower, a Matriz de Eisenhower é uma ferramenta utilizada para priorizar tarefas e orientar os processos de tomada de decisão nas organizações. [Matriz de Eisenhower]((https://www.siteware.com.br/produtividade/matriz-de-eisenhower/)).
+Criada pelo 34º presidente dos Estados Unidos, Dwight Eisenhower, a Matriz de Eisenhower é uma ferramenta utilizada para priorizar tarefas e orientar os processos de tomada de decisão nas organizações.[MatrizdeEisenhower](https://www.siteware.com.br/produtividade/matriz-de-eisenhower/)
 
 A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
 
