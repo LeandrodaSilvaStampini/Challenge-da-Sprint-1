@@ -15,7 +15,7 @@
 Criada pelo 34º presidente dos Estados Unidos, Dwight Eisenhower, a Matriz de Eisenhower é uma ferramenta utilizada para priorizar tarefas e orientar os processos de tomada de decisão nas organizações.[Matriz de Eisenhower](https://www.siteware.com.br/produtividade/matriz-de-eisenhower/)
 
 ## Layout Matriz
-![imagem 1<img width="100" height="70" src="](https://github.com/LeandrodaSilvaStampini/Challenge-da-Sprint-1/blob/main/image1.png)
+![imagem 1](https://github.com/LeandrodaSilvaStampini/Challenge-da-Sprint-1/blob/main/<image1.png width="100" height="70" src=")
 
 # GIT E GITLAB
 [Comandos Git mais utilizados e como configurar](https://blog.geekhunter.com.br/comandos-git-mais-utilizados/)
