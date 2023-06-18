@@ -1,5 +1,9 @@
 # Challenge-da-Sprint-1
-# Comunicação em projetos:
+# Dia 1 :: Ágil
+👍Onboard
+👍Challenge
+👍Entregáveis
+Orientações Gerais:
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/LeandrodaSilvaStampini/Challenge-da-Sprint-1/blob/main/LICENSE)
 # Sobre o projeto
 
