@@ -24,9 +24,6 @@ Com as práticas ágeis, o modelo de Gerenciamento do Backlog mais usado é o co
 
 
 
-## Regra 10 de Myers
-![imagem 1](https://1.bp.blogspot.com/-JiJxvjYuZtg/TzZjpkZIn1I/AAAAAAAAAIg/mnQOPY3bfPg/s400/10myers.jpg%22)
-
 # Sprint Planning: como funciona a Reunião de Planejamento da Sprint?
 
 A Sprint Planning é a reunião responsável por definir as entregas da equipe na próxima Sprint. Entenda como aplicar na sua organização agora!.[Sprint Planning: como funciona a Reunião de Planejamento da Sprint?](https://www.ieepeducacao.com.br/sprint-planning/)
