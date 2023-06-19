@@ -18,8 +18,6 @@ Criada pelo 34º presidente dos Estados Unidos, Dwight Eisenhower, a Matriz de E
 ## Matriz de Eisenhower
 <img width="400" height="450" src="https://github.com/LeandrodaSilvaStampini/Challenge-da-Sprint-1/blob/main/image1.png"/>
 
-## Regra 10 de Myers
-![imagem 1](https://1.bp.blogspot.com/-JiJxvjYuZtg/TzZjpkZIn1I/AAAAAAAAAIg/mnQOPY3bfPg/s400/10myers.jpg%22)
 
 # GIT E GITLAB
 [Comandos Git mais utilizados e como configurar](https://blog.geekhunter.com.br/comandos-git-mais-utilizados/)
