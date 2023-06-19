@@ -6,38 +6,31 @@
 
 👍Fundamentos do teste de software + Myers e o princípio de pareto.
 
-## Início Rápido em Teste e QA
+## Como um QA pode gerar qualidade dentro de um projeto:
 
-# Descrição
+Um QA desempenha um papel fundamental na geração de qualidade em projetos. Uma das maneiras pelas quais ele pode contribuir é através da redução de custos. Garantir a qualidade de um projeto é crucial para que uma empresa aumente seu ganho de capital. Isso ocorre porque projetos de baixa qualidade frequentemente enfrentam problemas que demandam altos custos para serem corrigidos, manchando a reputação da empresa e afetando seus ganhos financeiros. Um projeto de alta qualidade é capaz de gerar um produto superior que atende as demandas dos clientes. Isso, cria um aumento na procura pelo produto, impulsionando a produtividade e, consequentemente, gerando ganhos financeiros mais substanciais para a empresa.
 
-Criado originalmente para atrair novos profissionais para a área de Tecnologia de um dos maiores bancos da América Latina, este curso apresenta os fundamentos e um visão sólida da área de Testes e QA, de maneira clara, rápida e objetiva.
-Se você estava pensando em como começar em TI, em Testes ou em QA, este é o curso ideal para você.
-Você vai aprender sobre:
-•	A carreira de Testes e QA e sentir se ela é para você
+Um QA pode gerar qualidade nos projetos ao monitorar continuamente a qualidade, realizando vários testes nas fases do ciclo de vida do desenvolvimento, incluindo monitorar o progresso do projeto como um todo, identificar possíveis desvios em relação aos padrões de qualidade estabelecidos pela equipe e tomar medidas corretivas para garantir que a qualidade seja mantida
 
-•	As habilidades técnicas, pessoais e interpessoais de um profissional
+O mesmo também pode facilitar a colaboração e a comunicação entre os membros da equipe, como gerentes, designers e desenvolvedores. Isso ajuda a garantir que todos estejam alinhados com uma mesma compreensão dos objetivos de qualidade e trabalhem juntos para alcançá-los.
 
-•	Os 7 Fundamentos do Teste de Software
+Psicologia do teste:
 
-•	A diferença entre Testes e QA
+Testar o produto em todas as fases desde o planejamento até o produto final tratando os companheiros com respeito e se colocando no lugar do mesmo. Tendo empatia.
 
-•	As características da qualidade segundo a ISO 25010
+Que um bom testador deve ter respeito com sensibilidade e ser atencioso com os outros ao fornecer feedback ou discutir falhas.
 
-•	Como testes manuais e automatizados se complementam
+Foi destacado no vídeo a respeito dos cupons de desconto da Magazine Luiza uma falha por conta de um 0 a mais na elaboração do desconto o quanto eles não perderam de faturamento.
 
-•	Como um profissional de Testes e QA trabalha em um time ágil
+Foi mostrado também a importância dos testes para impedir vazamentos como dados dos clientes uma vez que isso pode denegrir a imagem da empresa.
 
-•	Atitudes e práticas de Testes Ágeis
+Fundamentos de teste, cada etapa de teste, como deve ser feito, fatores contextuais que influenciam o processo de teste, risco de projeto, normas existentes, restrições operacionais entre outras. Alguns conhecimentos que pode ser usado para análise e modelagem do teste, Histórias de usuário, requisitos não funcionais, ambientes operacionais
 
-•	Técnicas para aumentar a sua produtividade como profissional
+Concluindo também, que um software sem erros não é uma boa razão para lançar em produção, testes de software acaba sendo um processo para assegurar realização de um teste eficaz.
 
-•	Realizar Análise de Riscos, Análise de Pareto e complementar com Pairwise
+Teste deve ser processo independente gerido por profissionais imparciais. Teste para valores inválidos e inesperados tanto quanto para valores esperados e válidos.
 
-•	Cenários, Suítes, Casos de Teste e Mapas Mentais
-
-José Correia
-
-Especialista em Qualidade de Software
+Testes devem ser feitos apenas em partes estáticas do software (mudanças não devem ser feitas durante o processo de testes)
 
 
 
