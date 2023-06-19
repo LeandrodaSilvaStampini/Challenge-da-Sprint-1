@@ -6,6 +6,9 @@
 
 👍Fundamentos do teste de software + Myers e o princípio de pareto.
 
+## Regra 10 de Myers
+![imagem 1](https://1.bp.blogspot.com/-JiJxvjYuZtg/TzZjpkZIn1I/AAAAAAAAAIg/mnQOPY3bfPg/s400/10myers.jpg%22)
+
 ## Como um QA pode gerar qualidade dentro de um projeto:
 
 Um QA desempenha um papel fundamental na geração de qualidade em projetos. Uma das maneiras pelas quais ele pode contribuir é através da redução de custos. Garantir a qualidade de um projeto é crucial para que uma empresa aumente seu ganho de capital. Isso ocorre porque projetos de baixa qualidade frequentemente enfrentam problemas que demandam altos custos para serem corrigidos, manchando a reputação da empresa e afetando seus ganhos financeiros. Um projeto de alta qualidade é capaz de gerar um produto superior que atende as demandas dos clientes. Isso, cria um aumento na procura pelo produto, impulsionando a produtividade e, consequentemente, gerando ganhos financeiros mais substanciais para a empresa.
