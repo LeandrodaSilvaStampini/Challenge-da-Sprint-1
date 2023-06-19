@@ -1,13 +1,10 @@
 # Challenge-da-Sprint-1
-# Dia 4 :: Agil
+# Dia 5 :: Agil
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/LeandrodaSilvaStampini/Challenge-da-Sprint-1/blob/main/LICENSE)
 # Sobre o projeto
-👍Fundamentos do teste de software.
 
-👍Continuação do conteúdo da Udemy.
-
-
+👍Fundamentos do teste de software + Myers e o princípio de pareto.
 
 ## Início Rápido em Teste e QA
 
