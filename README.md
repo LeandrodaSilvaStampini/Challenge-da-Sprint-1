@@ -91,6 +91,6 @@ yarn start
 
 # Autor
 
-Wellington Mazoni de Andrade
+Leandro da Silva Stampini
 
-https://www.linkedin.com/in/wmazoni
+https://www.linkedin.com/in/leandro-da-silva-stampini-07b04aa3/
