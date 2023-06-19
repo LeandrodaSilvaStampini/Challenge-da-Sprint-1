@@ -35,7 +35,7 @@ git checkout -b nomeDaBranch (serve para criar uma ramificação (branch) e muda
 
 git checkout nomeDaBranch (serve para mudar sua branch)
 
-# Autor
+# Autor.
 
 Leandro da Silva Stampini
 
