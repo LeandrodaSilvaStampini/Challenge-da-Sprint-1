@@ -3,14 +3,13 @@
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/LeandrodaSilvaStampini/Challenge-da-Sprint-1/blob/main/LICENSE)
 # Sobre o projeto
-👍Onboard
-
-👍Challenge
+👍Planejamento da Sprint 1
 
 👍Entregáveis
 
-👍Orientações Gerais:
-# Matriz de Eisenhower
+👍Orientações Gerais
+
+# " Fundamentos do SCRUM Agile | Rápido e Prático "
 
 Criada pelo 34º presidente dos Estados Unidos, Dwight Eisenhower, a Matriz de Eisenhower é uma ferramenta utilizada para priorizar tarefas e orientar os processos de tomada de decisão nas organizações.[Matriz de Eisenhower](https://www.siteware.com.br/produtividade/matriz-de-eisenhower/)
 
