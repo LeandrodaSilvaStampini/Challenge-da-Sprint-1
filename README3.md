@@ -3,29 +3,43 @@
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/LeandrodaSilvaStampini/Challenge-da-Sprint-1/blob/main/LICENSE)
 # Sobre o projeto
-👍Planejamento da Sprint 1
-
-👍Entregáveis
-
-👍Orientações Gerais:
-
-## Fundamentos do SCRUM Agile | Rápido e Prático
-
-Scrum Agile / Agile Management: "A arte de fazer o dobro do trabalho na metade do tempo".
-
-Com o SCRUM, você aprenderá a desenvolver projetos de forma ágil, unindo e engajando muito mais a sua equipe, envolvendo o cliente desde o início, tendo feedbacks constantes ao longo do projeto e muito mais segurança de que, ao final, o cliente estará satisfeito com o resultado (afinal, ele participou de todo o processo).[Fundamentos do SCRUM Agile | Rápido e Prático](https://compassuol.udemy.com/course/fundamentos-scrum-agile/learn/lecture/24343530?start=1#overview)
-
-## Epic, Feature and Story – Épico, Funcionalidade e História
-<img width="400" height="450" src="https://github.com/LeandrodaSilvaStampini/Challenge-da-Sprint-1/blob/main/imagem2.jpg"/>
-
-# Epic, Feature and Story – Épico, Funcionalidade e História
-
-Com as práticas ágeis, o modelo de Gerenciamento do Backlog mais usado é o conjunto Epic, Feature and Story - Épico, Funcionalidade e História.[Epic, Feature and Story – Épico, Funcionalidade e História](https://odonodoproduto.com/epic-feature-and-story-epico-funcionalidade-e-historia/)
+👍Fundamentos do teste de software
 
 
 
-## Regra 10 de Myers
-![imagem 1](https://1.bp.blogspot.com/-JiJxvjYuZtg/TzZjpkZIn1I/AAAAAAAAAIg/mnQOPY3bfPg/s400/10myers.jpg%22)
+## Início Rápido em Teste e QA
+
+# Descrição
+
+Criado originalmente para atrair novos profissionais para a área de Tecnologia de um dos maiores bancos da América Latina, este curso apresenta os fundamentos e um visão sólida da área de Testes e QA, de maneira clara, rápida e objetiva.
+Se você estava pensando em como começar em TI, em Testes ou em QA, este é o curso ideal para você.
+Você vai aprender sobre:
+•	A carreira de Testes e QA e sentir se ela é para você
+
+•	As habilidades técnicas, pessoais e interpessoais de um profissional
+
+•	Os 7 Fundamentos do Teste de Software
+
+•	A diferença entre Testes e QA
+
+•	As características da qualidade segundo a ISO 25010
+
+•	Como testes manuais e automatizados se complementam
+
+•	Como um profissional de Testes e QA trabalha em um time ágil
+
+•	Atitudes e práticas de Testes Ágeis
+
+•	Técnicas para aumentar a sua produtividade como profissional
+
+•	Realizar Análise de Riscos, Análise de Pareto e complementar com Pairwise
+
+•	Cenários, Suítes, Casos de Teste e Mapas Mentais
+
+José Correia
+Especialista em Qualidade de Software
+
+
 
 
 # Autor
