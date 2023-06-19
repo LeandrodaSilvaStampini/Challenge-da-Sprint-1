@@ -1,9 +1,11 @@
 # Challenge-da-Sprint-1
-# Dia  3 :: Agil
+# Dia 4 :: Agil
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/LeandrodaSilvaStampini/Challenge-da-Sprint-1/blob/main/LICENSE)
 # Sobre o projeto
-👍Fundamentos do teste de software
+👍Fundamentos do teste de software.
+
+👍Continuação do conteúdo da Udemy.
 
 
 
@@ -37,6 +39,7 @@ Você vai aprender sobre:
 •	Cenários, Suítes, Casos de Teste e Mapas Mentais
 
 José Correia
+
 Especialista em Qualidade de Software
 
 
