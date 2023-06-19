@@ -11,11 +11,11 @@
 
 👍Orientações Gerais:
 
-# Matriz de Eisenhower
+# Epic, Feature and Story – Épico, Funcionalidade e História
 
-Criada pelo 34º presidente dos Estados Unidos, Dwight Eisenhower, a Matriz de Eisenhower é uma ferramenta utilizada para priorizar tarefas e orientar os processos de tomada de decisão nas organizações.[Matriz de Eisenhower](https://www.siteware.com.br/produtividade/matriz-de-eisenhower/)
+Com as práticas ágeis, o modelo de Gerenciamento do Backlog mais usado é o conjunto Epic, Feature and Story - Épico, Funcionalidade e História.[Epic, Feature and Story – Épico, Funcionalidade e História](https://www.siteware.com.br/produtividade/matriz-de-eisenhower/)
 
-## Matriz de Eisenhower
+## Epic, Feature and Story – Épico, Funcionalidade e História
 <img width="400" height="450" src="https://github.com/LeandrodaSilvaStampini/Challenge-da-Sprint-1/blob/main/imagem2.jpg"/>
 
 ## Regra 10 de Myers
