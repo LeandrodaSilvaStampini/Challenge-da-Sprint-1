@@ -3,9 +3,7 @@
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/LeandrodaSilvaStampini/Challenge-da-Sprint-1/blob/main/LICENSE)
 # Sobre o projeto
-👍Onboard
-
-👍Challenge
+👍Planejamento da Sprint 1
 
 👍Entregáveis
 
@@ -30,20 +28,6 @@ Com as práticas ágeis, o modelo de Gerenciamento do Backlog mais usado é o co
 ## Regra 10 de Myers
 ![imagem 1](https://1.bp.blogspot.com/-JiJxvjYuZtg/TzZjpkZIn1I/AAAAAAAAAIg/mnQOPY3bfPg/s400/10myers.jpg%22)
 
-# GIT E GITLAB
-[Comandos Git mais utilizados e como configurar](https://blog.geekhunter.com.br/comandos-git-mais-utilizados/)
-
-git add . (usado para adicionar os arquviso mudados (add . vai fazer com que todos os aqruivos sejam adicionados)) 
-
-git commit -m "mensagem" (usado para comentar a o que foi adicionado)
-
-git push (serve para enviar o projeto localmente para algum "destino")
-
-git pull origin develop (serve para puxar os arquivos do "destino")
-
-git checkout -b nomeDaBranch (serve para criar uma ramificação (branch) e mudar direto para ela)
-
-git checkout nomeDaBranch (serve para mudar sua branch)
 
 # Autor
 
