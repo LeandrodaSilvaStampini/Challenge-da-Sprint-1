@@ -34,7 +34,7 @@ Concluindo também, que um software sem erros não é uma boa razão para lança
 Teste deve ser processo independente gerido por profissionais imparciais. Teste para valores inválidos e inesperados tanto quanto para valores esperados e válidos.
 
 Testes devem ser feitos apenas em partes estáticas do software (mudanças não devem ser feitas durante o processo de testes)
-* Autores: *
+*Autores:*
 Grupo :Eduardo Cesar Leão de Souza, Gabriel Luiz Vieira da Silva,Leandro da Silva Stampini, Thiago Foganholo
 ## Os Mais importantes Princípios do Teste de Software
 [Os Mais importantes Princípios do Teste de Software](http://tmtestes.com.br/os-mais-importantes-principios-do-teste-de-software/)
