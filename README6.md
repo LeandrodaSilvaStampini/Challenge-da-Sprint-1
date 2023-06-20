@@ -15,7 +15,7 @@ Um desenho maroto pra pensarmos em quantos e que tipo de testes deveríamos ter!
 <img width="450" height="350" src="https://github.com/LeandrodaSilvaStampini/Challenge-da-Sprint-1/blob/main/imagem3.png"/>
 
 # A pirâmide de Testes
-<img width="450" height="350" src="https://github.com/LeandrodaSilvaStampini/Challenge-da-Sprint-1/blob/main/imagem3.png"/>
+<img width="450" height="350" src="https://github.com/LeandrodaSilvaStampini/Challenge-da-Sprint-1/blob/main/imagem4.png"/>
 
 Com as práticas ágeis, o modelo de Gerenciamento do Backlog mais usado é o conjunto Epic, Feature and Story - Épico, Funcionalidade e História.[Epic, Feature and Story – Épico, Funcionalidade e História](https://odonodoproduto.com/epic-feature-and-story-epico-funcionalidade-e-historia/)
 
