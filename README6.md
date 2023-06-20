@@ -7,11 +7,11 @@
 
 
 
-## A pirâmide de testes
+## A pirâmide de Testes
 
 Um desenho maroto pra pensarmos em quantos e que tipo de testes deveríamos ter!.[A pirâmide de testes]((https://medium.com/creditas-tech/a-pir%c3%a2mide-de-testes-a0faec465cc2)
 
-##  A pirâmide de testes
+##  A pirâmide de Testes
 <img width="400" height="450" src="https://github.com/LeandrodaSilvaStampini/Challenge-da-Sprint-1/blob/main/imagem2.jpg"/>
 
 # Epic, Feature and Story – Épico, Funcionalidade e História
