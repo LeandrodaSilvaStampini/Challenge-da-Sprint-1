@@ -1,5 +1,27 @@
 # Challenge-da-Sprint-1
 # Dia 1 :: Ágil
+**Nessa Sprint estudaremos:**
+
+
+.Comunicação em projetos
+
+.Como criar bons READMEs para repositórios versionados
+
+.Matriz de Eisenhower
+
+.Fundamentos de agilidade
+
+.Organização em equipes
+
+.O QA Ágil
+
+.Fundamentos de Teste (back-end)
+
+.Pirâmide de Testes
+
+.Myers e o princípio de Pareto
+
+Fundamentos de CyberSecurity
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/LeandrodaSilvaStampini/Challenge-da-Sprint-1/blob/main/LICENSE)
 # Sobre o projeto
