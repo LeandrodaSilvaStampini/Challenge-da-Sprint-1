@@ -12,11 +12,13 @@
 
 Cursos da AWS.[Self-Paced Digital training AWS - AWS Skill Builder](https://explore.skillbuilder.aws/learn/lp/1543/Cloud%2520Essentials%2520Learning%2520Plan%2520%28Portuguese%29)
 
-##  Login no Grupo Parceiros do AWS
-![imagem1](https://github.com/LeandrodaSilvaStampini/Challenge-da-Sprint-1/blob/main/imagem6.png)
+
 
 ## Login no Grupo Parceiros do AWS
 ![imagem2](https://github.com/LeandrodaSilvaStampini/Challenge-da-Sprint-1/blob/main/imagem5.png)
+
+##  Login no Grupo Parceiros do AWS
+![imagem1](https://github.com/LeandrodaSilvaStampini/Challenge-da-Sprint-1/blob/main/imagem6.png)
 
 ## Login no Grupo Parceiros do AWS
 ![imagem3](https://github.com/LeandrodaSilvaStampini/Challenge-da-Sprint-1/blob/main/imagem9.png)
