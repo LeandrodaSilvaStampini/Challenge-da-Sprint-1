@@ -10,10 +10,13 @@
 
 ## Plano de aprendizado básico AWS
 
-Um desenho maroto pra pensarmos em quantos e que tipo de Testes deveríamos ter!.[A pirâmide de Testes](https://medium.com/creditas-tech/a-pir%c3%a2mide-de-testes-a0faec465cc2)
+Cursos da AWS.[Self-Paced Digital training AWS - AWS Skill Builder](https://explore.skillbuilder.aws/learn/lp/1543/Cloud%2520Essentials%2520Learning%2520Plan%2520%28Portuguese%29))
 
-##  A pirâmide de Testes
-<img width="450" height="350" src="https://github.com/LeandrodaSilvaStampini/Challenge-da-Sprint-1/blob/main/imagem3.png"/>
+##  Login no Grupo Parceiros do AWS
+![imagem9](https://github.com/LeandrodaSilvaStampini/Challenge-da-Sprint-1/blob/main/imagem9.png)"/>
+
+Login no Grupo Parceiros do AWS
+![imagem9](https://github.com/LeandrodaSilvaStampini/Challenge-da-Sprint-1/blob/main/imagem9.png)"/>
 
 # A pirâmide de Testes
 <img width="450" height="350" src="https://github.com/LeandrodaSilvaStampini/Challenge-da-Sprint-1/blob/main/imagem4.png"/>
