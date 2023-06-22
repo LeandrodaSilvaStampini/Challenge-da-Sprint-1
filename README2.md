@@ -9,6 +9,12 @@
 
 👍Orientações Gerais:
 
+##ORGANIZAÇÃO
+
+**Para organização durante a trilha você terá total liberdade de utilizar ferramentas que facilitem a visualização das atividades, nós recomendamos o uso do Miro ou ferramentas similares, e como vamos utilizar muito o Gitlab durante nossa jornada, o uso dos projetos Gitlab também é uma boa alternativa.**
+
+**O uso da funcionalidade Issues do Gitlab será um requisito das Sprints mais avançadas, então vale a pena avaliar seu uso para a organização das atividades desde já (formato Kanban). Além disso, no seu projeto Gitlab você poderá fazer uso da Wiki para colocar as informações que achar pertinentes e que facilitem seus estudos.**
+
 ## Fundamentos do SCRUM Agile | Rápido e Prático
 
 Scrum Agile / Agile Management: "A arte de fazer o dobro do trabalho na metade do tempo".
