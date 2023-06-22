@@ -1,5 +1,5 @@
 # Challenge-da-Sprint1
-# Dia 7 :: Ágil
+# Dia 8 :: Ágil
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/LeandrodaSilvaStampini/Challenge-da-Sprint-1/blob/main/LICENSE)
 # Sobre o projeto
