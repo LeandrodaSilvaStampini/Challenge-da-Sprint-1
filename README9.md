@@ -7,7 +7,7 @@
 
 
 
-## Hoje veremos alguns tópicos relacionados à segurança na rede.
+## Hoje veremos alguns Tópicos relacionados à segurança na rede.
 
 *Ao lado você poderá acessar a base de webinários da Compass sobre CyberSec. Indicamos que assista aos seguintes:*
 
