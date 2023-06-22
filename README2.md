@@ -16,6 +16,14 @@ Scrum Agile / Agile Management: "A arte de fazer o dobro do trabalho na metade d
 Com o SCRUM, você aprenderá a desenvolver projetos de forma ágil, unindo e engajando muito mais a sua equipe, envolvendo o cliente desde o início, tendo feedbacks constantes ao longo do projeto e muito mais segurança de que, ao final, o cliente estará satisfeito com o resultado (afinal, ele participou de todo o processo).[Fundamentos do SCRUM Agile | Rápido e Prático](https://compassuol.udemy.com/course/fundamentos-scrum-agile/learn/lecture/24343530?start=1#overview)
 
 ##  Proj4me
+Método Kanban
+[Proj4me](https://app.proj4.me/projects/1/panels/86989/kanban)
+
+Evolução do Projeto
+[Proj4me Projeto E-commerce](https://app.proj4.me/projects/1/summary)
+
+Lições Aprendidas
+[Proj4me Licão aprendida](https://app.proj4.me/projects/1/lessons-learned/1306/apresentar)
 
 ## Epic, Feature and Story – Épico, Funcionalidade e História
 <img width="400" height="450" src="https://github.com/LeandrodaSilvaStampini/Challenge-da-Sprint-1/blob/main/imagem2.jpg"/>
