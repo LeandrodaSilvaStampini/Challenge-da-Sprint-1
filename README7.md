@@ -1,14 +1,14 @@
 
 # Challenge-da-Sprint1
-# Dia 6 :: Ágil
+# Dia 7 :: Ágil
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/LeandrodaSilvaStampini/Challenge-da-Sprint-1/blob/main/LICENSE)
 # Sobre o projeto
-👍Fundamentos do teste de software (Back-End)
+👍AWS 101
 
 
 
-## A pirâmide de Testes
+## Plano de aprendizado básico AWS
 
 Um desenho maroto pra pensarmos em quantos e que tipo de Testes deveríamos ter!.[A pirâmide de Testes](https://medium.com/creditas-tech/a-pir%c3%a2mide-de-testes-a0faec465cc2)
 
