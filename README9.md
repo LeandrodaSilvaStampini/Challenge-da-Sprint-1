@@ -19,12 +19,12 @@
 
 4- Segurança Digital - Dicas para se proteger o dia-a-dia.
 
-#bitwarden
+# bitwarden
 
 **Mova-se com rapidez e segurança com o gerenciador de senhas confiável por milhões.**
 [bitwarden](https://bitwarden.com/)
 
-#kaspersky
+# kaspersky
 
 **Verifique sua senha**
 *Sua senha não está segura se pode ser descoberta por força bruta ou ser encontrada em um banco de dados de senhas vazadas..*
