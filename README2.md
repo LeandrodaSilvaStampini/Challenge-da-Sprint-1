@@ -9,7 +9,7 @@
 
 👍Orientações Gerais:
 
-##ORGANIZAÇÃO
+## ORGANIZAÇÃO
 
 **Para organização durante a trilha você terá total liberdade de utilizar ferramentas que facilitem a visualização das atividades, nós recomendamos o uso do Miro ou ferramentas similares, e como vamos utilizar muito o Gitlab durante nossa jornada, o uso dos projetos Gitlab também é uma boa alternativa.**
 
