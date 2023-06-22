@@ -16,7 +16,7 @@ Cursos da AWS.[Self-Paced Digital training AWS - AWS Skill Builder](https://expl
 ![imagem8](https://github.com/LeandrodaSilvaStampini/Challenge-da-Sprint-1/blob/main/imagem6.png)
 
 Login no Grupo Parceiros do AWS
-![imagem9](https://github.com/LeandrodaSilvaStampini/Challenge-da-Sprint-1/blob/main/imagem9.png)
+![imagem10](https://github.com/LeandrodaSilvaStampini/Challenge-da-Sprint-1/blob/main/imagem5.png)
 
 Login no Grupo Parceiros do AWS
 ![imagem10](https://github.com/LeandrodaSilvaStampini/Challenge-da-Sprint-1/blob/main/imagem9.png)
